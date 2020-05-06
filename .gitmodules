@@ -1,0 +1,6 @@
+[submodule "src/ska"]
+	path = src/ska
+	url = https://github.com/skarupke/flat_hash_map
+[submodule "tools/cmake-scripts"]
+	path = tools/cmake-scripts
+	url = https://github.com/mpusz/cmake-scripts
